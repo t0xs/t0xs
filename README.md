@@ -1,7 +1,6 @@
 ## Olá, sou Gustavo Camboim...
 
-Com formação sólida no Senai em eletroeletrônica, destaquei-me em IoT, C#, hardware. Atualmente cursando Ciência da Computação, conhecimento em C/C++, Python e UML, além de aprofundar-me na disciplina de IA. Futuramente, embarcarei na exploração de bancos de dados. Possuo certificação em Google Cloud Foundations pelo Senai, minha jornada reflete dedicação, competência e constante busca por conhecimento.
-
+With a solid background at Senai in electronics, I stood out in IoT, C#, hardware. Currently studying Computer Science, knowledge in C/C++, Python and UML, in addition to delving deeper into the AI ​​discipline. In the future, I will embark on exploring databases. I am certified in Google Cloud Foundations by Senai, my journey reflects dedication, competence and constant search for knowledge.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="t0xs-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
